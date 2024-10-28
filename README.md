@@ -1,14 +1,14 @@
-# Will You Be My Valentine?
+# Want to go out for a date?
 
-Welcome to the "Will You Be My Valentine?" project, a playful and interactive way to ask that special someone the big question this Valentine's Day. Hosted as a GitHub Page, this project offers a unique blend of creativity and technology to make your Valentine's Day proposal unforgettable.
+Welcome to the "Want to go out for a date?" project, a playful and interactive way to ask that special someone the big question for a Date. Hosted as a GitHub Page, this project offers a unique blend of creativity and technology to make your Date's proposal unforgettable.
 
 ## Overview
 
-"Will You Be My Valentine?" is a web-based application that presents users with the question "Will you be my valentine?" followed by two options: "Yes" and "No". What makes this project special is the interactive and engaging way it handles responses, especially if someone tries to click "No".
+"Want to go out for a date?" is a web-based application that presents users with the question "Want to go out for a date?" followed by two options: "Yes" and "No". What makes this project special is the interactive and engaging way it handles responses, especially if someone tries to click "No".
 
 ## Features
 
-- **Interactive Question**: The core of the project is the interactive Valentine's Day proposal.
+- **Interactive Question**: The core of the project is the interactive Date's proposal.
 - **Responsive Design**: Crafted to look great on both desktop and mobile devices.
 - **Playful Interaction**: If the user attempts to click "No", watch out for a little surprise that might just sway their decision!
 
@@ -25,7 +25,7 @@ To experience "Will You Be My Valentine?", simply visit [https://darrenm07.githu
 
 ## How to Contribute
 
-Contributions to the "Will You Be My Valentine?" project are more than welcome. Whether it's suggesting new features, improving the design, or fixing bugs, here's how you can contribute:
+Contributions to the "Want to go out for a date?" project are more than welcome. Whether it's suggesting new features, improving the design, or fixing bugs, here's how you can contribute:
 
 1. **Fork the Repository**: Start by forking the [project repository](https://darrenm07.github.io/dateform/) on GitHub.
 2. **Clone Your Fork**: Clone your fork to your local machine for development.
